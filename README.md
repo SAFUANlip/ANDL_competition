@@ -76,9 +76,14 @@ This competition involved **semantic segmentation of Martian terrain** into **fi
 
 - 📂 [BloodCells](BloodCells/)  
   - 📂 [notebooks](BloodCells/notebooks/)  
-  - 📄 [AN2DL_Report_BloodCells.pdf](BloodCells/AN2DL_Report_BloodCells.pdf)  
+  - 📄 [BloodCellsDreamTeamReport.pdf](BloodCells/BloodCellsDreamTeamReport.pdf)  
 
 - 📂 [Mars](Mars/)  
   - 📂 [notebooks](Mars/notebooks/)  
-  - 📄 [AN2DL_Report_Mars.pdf](Mars/AN2DL_Report_Mars.pdf)  
+  - 📄 [MarsDreamTeamReport.pdf](Mars/MarsDreamTeamReport.pdf)  
 
+---
+
+## Team Members
+
+* Iusupov Safuan [Telegram](https://t.me/IusupovSafuan) | [GitHub](https://github.com/SAFUANlip) | safuan.iusupov@mail.polimi.it
