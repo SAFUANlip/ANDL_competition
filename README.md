@@ -89,4 +89,4 @@ This competition involved **semantic segmentation of Martian terrain** into **fi
 * Alisa Pesotskaia
 * Iusupov Safuan [Telegram](https://t.me/IusupovSafuan) | [GitHub](https://github.com/SAFUANlip) | safuan.iusupov@mail.polimi.it
 * Davide Paltrinieri
-* Dario Napolitano 
+* Dario Napolitano [GitHub](https://github.com/Darionapo2) | dario2.napolitano@mail.polimi.it
